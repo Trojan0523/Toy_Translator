@@ -1,0 +1,24 @@
+{
+  "name": "trojan-translator",
+  "version": "0.0.1",
+  "main": "dist/main.js",
+  "license": "MIT",
+  "bin": {
+    "fy": "dist/cli.js"
+  },
+  "files": [
+    "dist/**/*.js"
+  ],
+  "scripts": {
+    "dev": "ts-node-dev src/main.ts"
+  },
+  "licenses": "MIT",
+  "devDependencies": {
+    "@types/md5": "^2.2.0",
+    "commander": "^6.1.0"
+  },
+  "dependencies": {
+    "@types/node": "^14.11.1",
+    "md5": "^2.3.0"
+  }
+}
