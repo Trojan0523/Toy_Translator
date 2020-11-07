@@ -1,3 +1,5 @@
 /src/private.ts
 /dist/
 /node_modules/
+/.idea
+.gitignore
