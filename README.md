@@ -6,6 +6,11 @@
 
 ## usage
 
-- npm -i trojan-translator
+```
+npm -i trojan-translator
 
-- or yarn add global trojan-translator
+or 
+
+yarn add global trojan-translator
+
+```
